@@ -8,7 +8,6 @@ evol:
 - hal9000
 - travolta
 - monwarez
--
 
 tmw-wushin
 - wushin
@@ -19,6 +18,7 @@ tmw-wombat
 - peter
 - jessica
 - frost
+- o11c
 
 tmw-mana
 - bjorn
@@ -30,6 +30,8 @@ tmw-mana
 tmw-troll
 - mrwho
 - leela
+- mistakes
+- sola
 - mrgrey
 - amun
 - haunted
@@ -42,6 +44,7 @@ tmw-gm:
 - bigcrunch
 - tiana
 - kytty
+- cuoco
 
 tmw-2008:
 - rotonen
@@ -66,6 +69,7 @@ ML:
 
 tmw-br:
 - lunovox
+- jesusalva
 
 old-evol-from-2006:
 - katsuo
@@ -81,11 +85,17 @@ old-evol-from-2008:
 - elfenn
 - valkyrion
 
-old fork:
-- Aethyra
-- TAW
 
-dimond company:
+aethyra:
+- arilious
+- octalot
+- tametomo
+- frictor
+
+TAW:
+- madcamel?
+
+diamond company:
 - verdo
 - coolkid
 - wildx
