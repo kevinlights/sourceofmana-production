@@ -1,3 +1,5 @@
+Miro: https://miro.com/app/board/uXjVOqvf4Sc=/
+
 evol:
 - andrei
 - reid
