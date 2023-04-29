@@ -15,7 +15,10 @@ Production milestones are tracked mainly at group level (outwith this repo) so t
 
 Any documentation related to production, planning and general organisation should be stored in this repository.
 
----
+## Work in Progress
+Any work in progress content is being discussed across our Miro boards:
+- World Design: https://miro.com/app/board/uXjVOh9bBfo=/
+- Game Design: https://miro.com/app/board/uXjVPPCT-pY=/
 
 ### Contacts
 - @WildX
