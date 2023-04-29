@@ -20,6 +20,15 @@ Any work in progress content is being discussed across our Miro boards:
 - World Design: https://miro.com/app/board/uXjVOh9bBfo=/
 - Game Design: https://miro.com/app/board/uXjVPPCT-pY=/
 
+### Contributing to Miro
+
+Miro does not allow users to comment without an upgrade, so if you want to discuss the stuff
+on Miro, you must first create an account, and then request edit access.
+
+Please do not edit the maps themselves; There is an option to comment once you have access
+to it. Simple points can be discussed briefly in the development channel over IRC or Discord,
+but if it is only any complexity, please maintain the discussion as a comment in Miro.
+
 ### Contacts
 - @WildX
 - @Reidy
